@@ -8,7 +8,7 @@ The content is collected from the Internet, if infringement, please contact me t
 
 # 预览
 
-[地址](https://github.com/esrrhs/xiaohuangji/blob/master/preview.md)
+[地址](https://github.com/Larmyliu/doraemon/blob/main/preview.md)
 
 # 使用
 
